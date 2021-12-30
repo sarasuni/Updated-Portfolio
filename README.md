@@ -35,12 +35,13 @@ I always wanted to build my own Website.
 6. When user clicks on LinkedIn button it redirects to LinkedIn profile Web page.
 6. Footer is dedicated to display the website copyright and release information.
 
-## Username:
+## Live Deployed Link: 
+https://sarasuni.github.io/Updated-Portfolio/
 
+## Username:
 https://github.com/sarasuni
 
 ## Email:
-
 Sarasuni2021@gmail.com
 
 
