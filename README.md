@@ -30,7 +30,17 @@ I always wanted to build my own Website.
       * Work
       * Resume
       * contact Info
-4. When user clicks on Resume button the PDF file will be displayed and can be downloaded by clicking       download button. 
+4. When user clicks on Resume button the PDF file will be displayed and can be downloaded by clicking download button. 
 5. When user clicks on Project title box the page is redirected to respective Github live deployment project Webpage.
 6. When user clicks on LinkedIn button it redirects to LinkedIn profile Web page.
 6. Footer is dedicated to display the website copyright and release information.
+
+## Username:
+
+https://github.com/sarasuni
+
+## Email:
+
+Sarasuni2021@gmail.com
+
+

@@ -190,9 +190,8 @@ giving the appearance of an image tint  */
 }
 
 #work-desc-title-line-1 {
-  position: absolute;
-  font-size: 20px;
- 
+ font-size: 20px;
+ margin-right:115px;
 }
 
 #work-desc-title-line-2 {
